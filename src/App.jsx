@@ -16,7 +16,7 @@ function App() {
 
 
   const menuItems = (
-    <Box sx={{ width: 250 }}>
+    <Box sx={{ width: 200 }}>
       <List>
         <ListItem button component="a" href="#home" onClick={() => toggleDrawer(false)}>
           <ListItemText primary="Home" />

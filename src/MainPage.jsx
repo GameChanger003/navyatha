@@ -86,7 +86,7 @@ const MainPage = () => {
                     <Box sx={{backgroundColor:'#66D2CE',border:'1px',padding:'15px',borderRadius:'10px',boxShadow:'10px 10px 8px rgba(0, 135, 158,0.8)'}} width={{xs:'90%',md:"350px"}}>
                         <Box display="flex" justifyContent="space-between">
                         <Typography variant="h5" color="#2DAA9E" fontWeight="bold">10<sup>th</sup></Typography>
-                        <Typography variant="h6" color="#27445D">2029-2020</Typography>
+                        <Typography variant="h6" color="#27445D">2019-2020</Typography>
                         </Box>
                         <hr/>
                     <Typography variant="body1" color="#27445D">School: Sasi English Medium School </Typography>
